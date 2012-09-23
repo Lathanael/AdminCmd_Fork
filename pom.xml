@@ -325,6 +325,10 @@
 			<name>BukkitDev</name>
 			<url>http://www.gestdown.info:8888/nexus/content/groups/BukkitDev/</url>
 		</repository>
+		<repository>
+			<id>spout-repo</id>
+			<url>http://repo.spout.org</url>
+		</repository>
 	</repositories>
 	<pluginRepositories>
 		<pluginRepository>
