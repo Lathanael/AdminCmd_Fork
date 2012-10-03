@@ -608,6 +608,7 @@ public final class Utils {
 		return result;
 	}
 
+	
 	/**
 	 * Shortcut to online players.
 	 * 
@@ -1195,7 +1196,6 @@ public final class Utils {
 						final String newStateMsg = newStatePlayerLocale
 								+ LocaleHelper.KILLED.getLocale();
 						sender.sendMessage(newStateMsg);
-
 					}
 				}
 				if (logBlock != null) {
