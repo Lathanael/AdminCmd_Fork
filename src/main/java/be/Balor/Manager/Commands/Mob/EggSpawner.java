@@ -151,5 +151,4 @@ public class EggSpawner extends MobCommand {
 	public boolean argsCheck(final String... args) {
 		return args != null;
 	}
-
 }
